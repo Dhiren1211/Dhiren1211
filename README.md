@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate developer, lifelong learner, and 
 
 ### 📫 Connect With Me
 - 📧 Email: dhirenkathayat4455@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/dhirendra-kathayat-ba7055319/)
+- 💼 LinkedIn: [Dhirendra Kathayat](https://www.linkedin.com/in/dhirendra-kathayat-ba7055319/)
 
 ---
 
