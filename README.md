@@ -10,22 +10,22 @@ Welcome to my GitHub profile! I'm a passionate developer, lifelong learner, and 
 - 🇳🇵 Based in Nepal and working on local impact projects involving tech and service connectivity.
 
 ### 🧠 Tech Stack
-- **Languages:** C++, C#, JavaScript, PHP, SQL, HTML, CSS  
+- **Languages:** Java, C++, C#,  Python, JavaScript, PHP, SQL, HTML, CSS  
 - **Database:** MySQL   
 - **Tools:** Git, GitHub, VS Code, Postman  
-- **Learning:** Laravel, REST APIs, JavaScript ES6+, C++ STL
+- **Learning:** Laravel, REST APIs, JavaScript ES6+, C++ STL, ReactJs 
 
 ### 🌱 Currently Working On
 - A platform to connect **hourly workers and part-time job seekers** in Nepal  
 - A **Student At KyunsSung University** In south Korea, Busan City.
 - Mastering backend development, algorithms, and clean coding practices
 
-### 📈 GitHub Stats
-![Dhiren's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhiren1211&show_icons=true&theme=default)
 
 ### 📫 Connect With Me
 - 📧 Email: dhirenkathayat4455@gmail.com
 - 💼 LinkedIn: [Dhirendra Kathayat](https://www.linkedin.com/in/dhirendra-kathayat-ba7055319/)
+- 💼 Facebook: [Dhirendra Kathayat](https://www.facebook.com/DhirenKathayat121/)
+  
 
 ---
 
