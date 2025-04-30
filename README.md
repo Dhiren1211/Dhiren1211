@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate developer, lifelong learner, and 
 - **Languages:** Java, C++, C#,  Python, JavaScript, PHP, SQL, HTML, CSS  
 - **Database:** MySQL   
 - **Tools:** Git, GitHub, VS Code, Postman  
-- **Learning:** Laravel, REST APIs, JavaScript ES6+, C++ STL, ReactJs 
+- **Learning:** Laravel, REST APIs, JavaScript ES6+, C++ STL, React Js 
 
 ### 🌱 Currently Working On
 - A platform to connect **hourly workers and part-time job seekers** in Nepal  
