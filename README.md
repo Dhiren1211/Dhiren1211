@@ -1,5 +1,5 @@
 # Dhirendra Kathayat  
-#### Full-Stack Developer | Computer Engineering Student  
+#### Full-Stack Developer | IT Engineering Student  
 
 ---
 
@@ -36,7 +36,8 @@ Git | VS Code | Postman | Linux
 **Currently Enhancing:**  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-Cloud Technologies (AWS/GCP)
+
+**Cloud Technologies (AWS/GCP)**
 
 ---
 
@@ -55,7 +56,8 @@ Cloud Technologies (AWS/GCP)
 
 ## Education  
 **Kyungsung University** - Busan, South Korea  
-Bachelor of Computer Science (Expected: 2026)  
+Global IT Engineering
+
 Relevant Coursework: Data Structures, Algorithms, Database Systems  
 
 ---
