@@ -4,7 +4,7 @@
 ---
 
 ## Professional Summary  
-Computer Science student at Kyungsung University (Busan, South Korea) with hands-on experience in full-stack development. Passionate about building scalable systems and financial technology solutions. Currently enhancing expertise in backend architecture and cloud technologies while developing a finance management platform.
+Global IT Engineeering student at Kyungsung University (Busan, South Korea) with hands-on experience in full-stack development. Passionate about building scalable systems and financial technology solutions. Currently enhancing expertise in backend architecture and cloud technologies while developing a finance management platform.
 
 ---
 
