@@ -56,7 +56,7 @@ Git | VS Code | Postman | Linux
 
 ## Education  
 **Kyungsung University** - Busan, South Korea  
-Global IT Engineering
+Global IT Engineering (Joined on 2025)
 
 Relevant Coursework: Data Structures, Algorithms, Database Systems  
 
