@@ -1,82 +1,89 @@
 # Dhirendra Kathayat  
-### Full-Stack Developer | IT Engineering Student | FinTech Enthusiast  
+#### Full-Stack Developer | IT Engineering Student | FinTech Enthusiast  
 📍 Busan, South Korea | 🎓 Kyungsung University  
 
 ---
 
-## 🧑‍💼 Professional Summary  
+## 🚀 Professional Summary  
 
-Aspiring full-stack developer with a focus on building efficient, scalable, and user-centric software systems. Currently pursuing a degree in Global IT Engineering at Kyungsung University, South Korea. Passionate about financial technology, backend architecture, and cloud-based solutions. Continuously evolving through practical projects, innovative experimentation, and hands-on development experience.
+Aspiring full-stack developer passionate about building efficient, scalable software solutions. Currently pursuing Global IT Engineering at Kyungsung University with strong focus on:
+- Financial technology innovations  
+- Backend architecture & cloud solutions  
+- User-centric web applications  
 
 ---
 
-## 🧠 Technical Proficiencies  
+## 💻 Tech Stack  
 
-### 🔧 Core Competencies  
-- Full-Stack Web Development  
-- RESTful API Design & Integration  
-- Object-Oriented Programming (OOP)  
-- Relational Database Design & Optimization  
+### 🛠️ Core Skills  
+| Development        | Technologies                          |
+|--------------------|---------------------------------------|
+| **Frontend**       | HTML5, CSS3, Tailwind, Bootstrap      |
+| **Backend**        | PHP, Laravel, Node.js (Learning)     |
+| **Databases**      | MySQL, Database Design               |
+| **APIs**           | RESTful Architecture                  |
 
-### 💻 Programming Languages  
+### 🔠 Languages  
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 
-### 🌐 Web Technologies  
-HTML5 | CSS3 | Tailwind CSS | Bootstrap | Laravel
+### 🧰 Tools  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
-### 🗃️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-
-### 🧰 Tools & Platforms  
-Git | VS Code | Postman | Linux | XAMPP
-
-### 🚀 Currently Learning  
+### 🌱 Currently Learning  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)  
-Cloud Technologies: **AWS**, **GCP**
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white)
 
 ---
 
-## 🛠️ Current Projects  
+## � Projects  
 
-### 📌 Finance Management System  
-A professional-grade finance tracker with:
-- 💡 Real-time dashboards for income, expense, and savings
-- 🔐 Secure PHP/MySQL backend with full CRUD support
-- 📊 Dynamic reports and charts (Chart.js)
-- 📅 Reminder system with alert integration
-- 🔄 CSV Export and currency conversion (USD/NPR/KRW)
+### 💰 Finance Management System  
+✔️ Real-time dashboards with Chart.js  
+✔️ Secure PHP/MySQL CRUD operations  
+✔️ Multi-currency support & CSV export  
+✔️ Automated reminder system  
 
-### 🌍 JobConnect Nepal  
-Community-focused web platform to connect hourly wage workers with local employers.
-- Targeting rural and urban job accessibility
-- Developed with PHP and responsive web technologies
+### 🤝 JobConnect Nepal  
+✔️ PHP-based job matching platform  
+✔️ Bridges rural/urban employment gaps  
+✔️ Responsive web interface  
 
 ---
 
-## 🎓 Education  
+## 📚 Education  
+- **Budhanilkantha Technical School**  
+*Kathmandu, Nepal*  
+*Diploma in Computer Engineering*
 
-**Kyungsung University** — *Busan, South Korea*  
+- **Kyungsung University**  
 *BSc in Global IT Engineering (Expected 2029)*  
 
-**Relevant Coursework**:  
-Data Structures, Algorithms, Software Engineering, Database Systems
+
+📌 Relevant Coursework:  
+- Data Structures & Algorithms  
+- Software Engineering  
+- Database Systems  
 
 ---
 
-## 🤝 Let's Connect  
+## 📬 Contact  
 
-I’m open to **tech collaborations**, **freelance opportunities**, and **FinTech discussions**. Reach out!
+Open to collaborations and opportunities in:  
+🔹 FinTech Development  
+🔹 Full-Stack Projects  
+🔹 Tech Innovation  
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhirendra-kathayat-ba7055319/)  
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhirenkathayat4455@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhirendra-kathayat-ba7055319/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhirenkathayat4455@gmail.com)  
 
 ---
 
-> *"Engineering is the closest thing to magic that exists in the world."* — **Elon Musk**
-
----
+> *"The best way to predict the future is to create it."* — Peter Drucker
