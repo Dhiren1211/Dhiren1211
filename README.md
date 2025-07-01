@@ -1,6 +1,6 @@
 # Dhirendra Kathayat  
 #### Full-Stack Developer | IT Engineering Student | FinTech Enthusiast  
-📍 Busan, South Korea | 🎓 Kyungsung University  
+  
 
 ---
 
@@ -42,30 +42,6 @@ Aspiring full-stack developer passionate about building efficient, scalable soft
 ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white)
 
 ---
-
-## � Projects  
-
-### 💰 Finance Management System  
-✔️ Real-time dashboards with Chart.js  
-✔️ Secure PHP/MySQL CRUD operations  
-✔️ Multi-currency support & CSV export  
-✔️ Automated reminder system  
-
-### 🤝 JobConnect Nepal  
-✔️ PHP-based job matching platform  
-✔️ Bridges rural/urban employment gaps  
-✔️ Responsive web interface  
-
----
-
-## 📚 Education  
-- **Budhanilkantha Technical School**  
-*Kathmandu, Nepal*  
-*Diploma in Computer Engineering*
-
-- **Kyungsung University**  
-*BSc in Global IT Engineering (Expected 2029)*  
-
 
 📌 Relevant Coursework:  
 - Data Structures & Algorithms  
