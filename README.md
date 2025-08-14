@@ -1,65 +1,82 @@
 # Dhirendra Kathayat  
-#### Full-Stack Developer | IT Engineering Student | FinTech Enthusiast  
-  
+#### Aspiring AI/ML Engineer | Cybersecurity Enthusiast | IT Engineering Student  
 
 ---
 
-## 🚀 Professional Summary  
+## 🚀 Current Focus  
 
-Aspiring full-stack developer passionate about building efficient, scalable software solutions. Currently pursuing Global IT Engineering at Kyungsung University with strong focus on:
-- Financial technology innovations  
-- Backend architecture & cloud solutions  
-- User-centric web applications  
+Passionate technology student actively building expertise in artificial intelligence and cybersecurity through dedicated study and hands-on practice. Currently pursuing Global IT Engineering at Kyungsung University with focused learning in:  
+- **Machine Learning Fundamentals** (Supervised/Unsupervised learning)  
+- **Cybersecurity Basics** (Network security, Cryptography)  
+- **Secure Coding Practices**  
+- **Cloud Security Concepts**  
 
 ---
 
-## 💻 Tech Stack  
+## 📚 Learning Path  
 
-### 🛠️ Core Skills  
-| Development        | Technologies                          |
-|--------------------|---------------------------------------|
-| **Frontend**       | HTML5, CSS3, Tailwind, Bootstrap      |
-| **Backend**        | PHP, Laravel, Node.js (Learning)     |
-| **Databases**      | MySQL, Database Design               |
-| **APIs**           | RESTful Architecture                  |
+### 🤖 AI/ML Development  
+| Skill Level       | Technologies & Concepts               |
+|-------------------|---------------------------------------|
+| **Learning**      | Python for Data Science, NumPy, Pandas |
+| **Exploring**     | TensorFlow basics, Scikit-learn       |
+| **Next Steps**    | Neural Networks, NLP fundamentals     |
 
-### 🔠 Languages  
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+### 🔐 Cybersecurity  
+| Area              | Current Focus                         |
+|-------------------|---------------------------------------|
+| **Fundamentals**  | Network protocols, OWASP Top 10       |
+| **Tools**         | Wireshark, Nmap, Metasploit Framework |
+| **Cert Goals**    | CompTIA Security+, CEH Preparation    |
+
+### 💻 Core Skills  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-
-### 🧰 Tools  
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-
-### 🌱 Currently Learning  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 
 ---
 
-📌 Relevant Coursework:  
-- Data Structures & Algorithms  
-- Software Engineering  
-- Database Systems  
+## 🧠 Knowledge Building  
+
+### Current Courses & Resources  
+- **Machine Learning**: Andrew Ng's ML Course (Coursera)  
+- **Cybersecurity**: TryHackMe learning paths  
+- **Programming**: LeetCode problem solving (Python focus)  
+- **Networking**: Cisco Networking Academy fundamentals  
+
+### Lab Environment  
+- Building virtual labs using VirtualBox/Kali Linux  
+- Experimenting with Jupyter Notebooks for ML  
+- Creating CTF (Capture The Flag) challenge solutions  
 
 ---
 
-## 📬 Contact  
+## 🌱 Next Steps  
 
-Open to collaborations and opportunities in:  
-🔹 FinTech Development  
-🔹 Full-Stack Projects  
-🔹 Tech Innovation  
+1. **Complete foundational courses** in ML and Cybersecurity  
+2. **Develop small practice projects**:  
+   - Malware analysis sandbox  
+   - Basic intrusion detection script  
+   - MNIST digit classification model  
+3. **Earn entry-level certifications**:  
+   - Python Institute PCAP  
+   - CompTIA Security+  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhirendra-kathayat-ba7055319/)
+---
+
+## 📬 Let's Connect  
+
+Open to:  
+🔹 Study groups and knowledge sharing  
+🔹 Beginner-friendly open source projects  
+🔹 Mentorship opportunities  
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhirenkathayat4455@gmail.com)  
 
+
 ---
 
-> *"The best way to predict the future is to create it."* — Peter Drucker
+> *"The expert in anything was once a beginner."* — Helen Hayes  
+> *"In cybersecurity, every day is a school day."* — Unknown  
+> *"AI won't replace you. A person using AI will."* — Unknown
