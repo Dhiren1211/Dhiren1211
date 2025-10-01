@@ -5,12 +5,7 @@
 
 ## 🚀 Professional Summary  
 
-Passionate mobile app developer and software engineering student with expertise in cross-platform development and modern tech stacks. Currently pursuing Global IT Engineering at Kyungsung University with focused learning in:  
-- **Cross-Platform Mobile Development** (React Native, Flutter)  
-- **Native Android Development** (Kotlin, Java)  
-- **Backend Integration & API Development**  
-- **UI/UX Design Principles**  
-- **Cloud Services & Mobile Security**  
+Passionate mobile app developer and software engineering student with expertise in cross-platform development and modern tech stacks. Currently pursuing Global IT Engineering at Kyungsung University.
 
 ---
 
