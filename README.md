@@ -1,13 +1,5 @@
 # Dhirendra Kathayat  
-#### Mobile App Developer | Software Engineer  
 
----
-
-## 🚀 Professional Summary  
-
-Passionate mobile app developer and software engineering student with expertise in cross-platform development and modern tech stacks. Currently pursuing Global IT Engineering at Kyungsung University.
-
----
 
 ## 💻 Technical Skills  
 
