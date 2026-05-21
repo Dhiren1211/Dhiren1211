@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=DHIRENDRA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20•%20System%20Builder%20•%20Open%20Source%20Enthusiast&descAlignY=58&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=DHIREN%20KATHAYAT&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20•%20System%20Builder%20•%20Open%20Source%20Enthusiast&descAlignY=58&descAlign=50"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=900&height=100&lines=⚡+Building+Scalable+Backend+Systems;🚀+Turning+Ideas+Into+Production+Ready+Code;❤️+Obsessed+With+Clean+Architecture+%26+Performance"/>
 
