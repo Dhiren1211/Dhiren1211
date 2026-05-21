@@ -75,7 +75,7 @@ me.say_hi()
 
 # 🚀 TECH ARSENAL
 
-<div align="left">
+<div align="center">
 
 ### Languages
 
