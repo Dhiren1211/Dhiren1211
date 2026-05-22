@@ -75,11 +75,11 @@ me.say_hi()
 
 # 🚀 TECH ARSENAL
 
-<div align="center">
+<div align="left">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,javascript,java,c,c++" />
+<img src="https://skillicons.dev/icons?i=python,javascript,java,c,cpp,cs" />
 
 ---
 
@@ -101,7 +101,7 @@ me.say_hi()
 
 ---
 
-### 🧰 Tools I Use Daily
+### Tools I Use Daily
 
 <img src="https://skillicons.dev/icons?i=vscode,postman,bash,figma,github" />
 
@@ -204,6 +204,5 @@ me.say_hi()
 
 ## ⚡ “Eat • Sleep • Code • Repeat”
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=©%202026%20Reserved%20By%20Dhiren1211&fontSize=12&fontColor=ffffff&animation=fadeIn" />
 </div>
